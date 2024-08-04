@@ -1,7 +1,7 @@
 class Person:
     def __init__(self, initialAge):
         self.age = initialAge
-        # Add some more code to run some checks on initialAge
+        # Add some more code to run some checks on initialAge !
         if (self.age < 0):
             print('Age is not valid, setting age to 0.')
             self.age = 0
