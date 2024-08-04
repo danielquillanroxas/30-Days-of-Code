@@ -17,5 +17,3 @@ class Person:
     def yearPasses(self):
         self.age +=1
         # Increment the age of the person in here
-    # try
-    
